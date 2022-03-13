@@ -6,10 +6,10 @@
 
     **Examples:**
 
-    > Input: 126
+    > Input: 126  
     > Output: 2:6
 
-    > Input: 45
+    > Input: 45  
     > Output: 0:45
 
     **Solution:**
